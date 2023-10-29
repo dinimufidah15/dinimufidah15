@@ -1,5 +1,5 @@
 ## Hey 👋, This is Dini Mufidah
-[![Gmail Badge](https://img.shields.io/badge/-jundyfauzi789@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jundyfauzi789@gmail.com)](mailto:jundyfauzi789@gmail.com) 
+[![Gmail Badge](https://img.shields.io/badge/-jundyfauzi789@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:arif190315@gmail.com)](mailto:jundyfauzi789@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/instagram-dinimufidah15-blue?style=flat&logo=instagram&logoColor=blue&link=https://www.instagram.com/muh_jundy_r/)](https://www.instagram.com/muh_jundy_r/) [![Github Badge](https://img.shields.io/badge/-dinimufidah15-grey?style=flat&logo=github&logoColor=white&link=https://github.com/dinimufidah15/)](https://www.github.com/dinimufidah15/) [![Portfolio Badge](https://img.shields.io/badge/webssh-web-blue?style=flat&link=https://www.fusiontempest.my.id/)](https://www.technovpn.biz.id/) <p align='left'>I am an undergraduate student from Depok, Indonesia. I am looking for full time opportunities. I am currently working on a small project and do what I like, because if we like the work, we'd love to do it.</p>
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=dinimufidah15 alt=dinimufidah15 /> </p>
